@@ -1,27 +1,19 @@
-# Seth Godin
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/seth-godin)
-
-Mente cognitiva de Seth Godin — posicionamento de marca, notabilidade e marketing como generosidade
-
-| | |
-|---|---|
-| **Category** | minds |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $49.90 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/seth-godin) to install.
-
-```bash
-# After purchase:
-myclaude install seth-godin
-```
-
-## About
+---
+name: seth-godin
+display_name: Seth Godin
+description: "Mente cognitiva de Seth Godin — posicionamento de marca, notabilidade e marketing como generosidade"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "marketing"
+  - "branding"
+  - "positioning"
+  - "remarkability"
+  - "tribes"
+  - "cognitive-mind"
+marketplace_url: "https://myclaude.sh/p/seth-godin"
+---
 
 # Seth Godin — Cognitive Mind
 
@@ -67,13 +59,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`marketing` `branding` `positioning` `remarkability` `tribes` `cognitive-mind`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/seth-godin) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

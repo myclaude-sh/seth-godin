@@ -1,0 +1,14 @@
+name: seth-godin
+version: 1.0.0
+type: minds
+description: "Mente cognitiva de Seth Godin — posicionamento de marca, notabilidade e marketing como generosidade"
+price: 49.9
+license: MIT
+entry: SKILL.md
+tags:
+  - marketing
+  - branding
+  - positioning
+  - remarkability
+  - tribes
+  - cognitive-mind

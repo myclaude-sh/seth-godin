@@ -1,0 +1,27 @@
+{
+  "name": "seth-godin",
+  "display_name": "Seth Godin",
+  "description": "Mente cognitiva de Seth Godin — posicionamento de marca, notabilidade e marketing como generosidade",
+  "version": "1.0.0",
+  "author": "vinicius-caetano",
+  "license": "MIT",
+  "source": {
+    "type": "github",
+    "owner": "myclaude-sh",
+    "repo": "seth-godin"
+  },
+  "install": {
+    "type": "skill",
+    "entry": "SKILL.md"
+  },
+  "tags": [
+    "marketing",
+    "branding",
+    "positioning",
+    "remarkability",
+    "tribes",
+    "cognitive-mind"
+  ],
+  "marketplace_url": "https://myclaude.sh/p/seth-godin",
+  "price": 49.9
+}
